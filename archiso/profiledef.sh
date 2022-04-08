@@ -3,7 +3,7 @@
 
 iso_name="necatos"
 iso_label="KRAL_SAKIR_SWINGER_HOUSE_$(date +%Y%m)"
-iso_publisher="NecatOS <https://archlinux.org>"
+iso_publisher="NecatOS <https://github.com/Fil-Necati-Linux/NecatOS>"
 iso_application="NecatOS Live/Rescue CD"
 iso_version="$(date +%Y.%m.%d)"
 install_dir="arch"
