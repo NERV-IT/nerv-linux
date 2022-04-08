@@ -71,7 +71,7 @@ ndisc6
 nfs-utils
 nilfs-utils
 nmap
-ntfs-3g
+#ntfs-3g Obsolete since 5.15
 nvme-cli
 openconnect
 openssh
@@ -108,7 +108,7 @@ udftools
 usb_modeswitch
 usbmuxd
 usbutils
-#vim
+vim
 #virtualbox-guest-utils-nox
 vpnc
 wireless-regdb
@@ -158,8 +158,6 @@ xf86-video-intel
 xf86-video-amdgpu
 #xf86-video-nouveau
 
-virtualbox-guest-utils
-
 nvidia
 nvidia-settings
 nvidia-utils
@@ -168,4 +166,3 @@ nvidia-utils
 
 linux-zen
 linux-zen-headers
-mkinitcpio-openswap
