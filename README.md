@@ -1,2 +1,7 @@
-# apartman
-NecatOS için gerekli modüllerin saklandığı yer.
+# NecatOS-Arch
+Sistem
+
+
+# Derlemek
+
+archiso larpage 
