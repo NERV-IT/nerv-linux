@@ -124,17 +124,15 @@ zsh
 
 ##### NecatOS Packages #####
 
-
+htop
 sddm
 bash-completion
 grub
 os-prober
 dex
-libxinerama
 make
-xorg-xkill
-xterm
-xorg-xrdb
+
+
 
 
 networkmanager
@@ -144,11 +142,13 @@ network-manager-applet
 ## Xorg 
 
 
+libxinerama
+xorg-xkill
 xorg-server
-xorg-apps
 neofetch
 firefox
-
+xorg-xrdb
+kitty
 
 ##### Drivers
 
