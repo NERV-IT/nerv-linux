@@ -1,7 +1,7 @@
 # NecatOS-Arch
-Sistem
 
+NecatOS'in archiso formatındaki dosya sistemi ve imaj oluşturma araçları.
 
 # Derlemek
 
-archiso larpage 
+Arch Linux'te archiso aracını indirip `./build` yazmanız yeterli olacaktır

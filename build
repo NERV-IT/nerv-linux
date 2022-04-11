@@ -1,8 +1,13 @@
 #!/bin/bash
 
-# Script from https://github.com/Fil-Necati-Linux/necatos-arch
+## Script from https://github.com/Fil-Necati-Linux/necatos-arch
+## just a shortcut for now
 
-# just a shortcut for now
 
-mkarchiso -v -w work/ -o dist/ archiso
+#TODO: Make this script an actual build env.
 
+if [ $1 == "clean" ]; then
+	rm -rf work/*
+fi
+
+mkarchiso -v -w work/ -o dist/ necatos-profile
