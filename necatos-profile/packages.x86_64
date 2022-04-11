@@ -122,6 +122,16 @@ zsh
 
 # everything above comes from archiso releng folder
 
+## Repository dependencies
+
+# Arco Linux repositories
+arcolinux-keyring
+arcolinux-mirror
+
+# Chaotic AUR
+chaotic-keyring
+chaotic-mirrorlist
+
 ##### NecatOS Packages #####
 
 htop
@@ -132,15 +142,11 @@ os-prober
 dex
 make
 
-
-
-
 networkmanager
 network-manager-applet
 
 
 ## Xorg 
-
 
 libxinerama
 xorg-xkill
@@ -151,8 +157,6 @@ xorg-xrdb
 kitty
 
 ##### Drivers
-
-
 
 xf86-video-intel
 xf86-video-amdgpu
